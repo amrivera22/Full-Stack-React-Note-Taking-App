@@ -19,3 +19,5 @@ Frontend: React (Vite) + CSS
 Backend: Node.js (Express.js)
 
 State Management: React hooks (useState, useEffect)
+
+credit to freecodecamp for this project!
