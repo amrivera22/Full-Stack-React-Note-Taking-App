@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Full-Stack-React-Note-Taking-App/static/css/main.7332af08.css",
+    "main.js": "/Full-Stack-React-Note-Taking-App/static/js/main.097b136d.js",
+    "static/js/453.c9e44fac.chunk.js": "/Full-Stack-React-Note-Taking-App/static/js/453.c9e44fac.chunk.js",
+    "index.html": "/Full-Stack-React-Note-Taking-App/index.html",
+    "main.7332af08.css.map": "/Full-Stack-React-Note-Taking-App/static/css/main.7332af08.css.map",
+    "main.097b136d.js.map": "/Full-Stack-React-Note-Taking-App/static/js/main.097b136d.js.map",
+    "453.c9e44fac.chunk.js.map": "/Full-Stack-React-Note-Taking-App/static/js/453.c9e44fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7332af08.css",
+    "static/js/main.097b136d.js"
+  ]
+}
